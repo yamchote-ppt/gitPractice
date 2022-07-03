@@ -1,3 +1,3 @@
 txt1 = "Hello"
-name = "Phaphontee Yamchote"
+name = "Phaphontee"
 print(txt1, name)
